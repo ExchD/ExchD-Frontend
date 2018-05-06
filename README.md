@@ -14,4 +14,4 @@ Main page include three component so far
 >Panel
 >Card
 
-![](https://github.com/ExchD/ExchD-Frontend/tree/zhenjie/images/Main_page.jpg)
+![](https://github.com/ExchD/ExchD-Frontend/blob/zhenjie/images/Main_page.jpg)
