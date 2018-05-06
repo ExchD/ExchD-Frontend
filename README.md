@@ -4,14 +4,14 @@ Online pre-owned item exchange website for serving Detroit area. This repository
 
 ## Blue picture
 This figure shows the guideline of front-end development
-![](https://github.com/ExchD/ExchD-Frontend/tree/zhenjie/images/bluePicture.png)  
+![](https://github.com/ExchD/ExchD-Frontend/blob/zhenjie/images/bluePicture.png)  
 
 
 ## Main page
 Main page include three component so far
 
->Navgation-bar
->Panel
->Card
+* Navgation-bar
+* Panel
+* Card
 
-![](https://github.com/ExchD/ExchD-Frontend/tree/zhenjie/images/Main_page.jpg)
+![](https://github.com/ExchD/ExchD-Frontend/blob/zhenjie/images/Main_page.jpg)
